@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sub3CatalogueMovieAPI</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="tab_text_3">Favorit</string>
+    <string name="detail">Detail</string>
+    <string name="setting">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+</resources>
